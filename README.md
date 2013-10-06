@@ -3,6 +3,8 @@ PumpkinBlast
 
 Simplistic Halloween game in python
 
+Depends on pygame being installed.
+
 
 TODO:
 =====
